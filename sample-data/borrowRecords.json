@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6a4a63b4d40dd193bbcfe25e"
+  },
+  "bookId": {
+    "$oid": "6a4a5daa4474ac4853363d39"
+  },
+  "memberId": {
+    "$oid": "6a4a62144474ac4853363d46"
+  },
+  "borrowDate": {
+    "$date": "2026-07-01T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2026-07-15T00:00:00.000Z"
+  },
+  "status": "Borrowed"
+},
+{
+  "_id": {
+    "$oid": "6a4a6402d40dd193bbcfe25f"
+  },
+  "bookId": {
+    "$oid": "6a4a5db54474ac4853363d3b"
+  },
+  "memberId": {
+    "$oid": "6a4a621d4474ac4853363d48"
+  },
+  "borrowDate": {
+    "$date": "2026-07-03T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "status": "Returned"
+},
+{
+  "_id": {
+    "$oid": "6a4a6420d40dd193bbcfe260"
+  },
+  "bookId": {
+    "$oid": "6a4a5dc04474ac4853363d3d"
+  },
+  "memberId": {
+    "$oid": "6a4a62284474ac4853363d4a"
+  },
+  "borrowDate": {
+    "$date": "2026-07-05T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2026-07-19T00:00:00.000Z"
+  },
+  "status": "Borrowed"
+},
+{
+  "_id": {
+    "$oid": "6a4a643dd40dd193bbcfe261"
+  },
+  "bookId": {
+    "$oid": "6a4a5dd44474ac4853363d3f"
+  },
+  "memberId": {
+    "$oid": "6a4a62344474ac4853363d4c"
+  },
+  "borrowDate": {
+    "$date": "2026-07-08T00:00:00.000Z"
+  },
+  "returnDate": {
+    "$date": "2026-07-22T00:00:00.000Z"
+  },
+  "status": "Borrowed"
+}]

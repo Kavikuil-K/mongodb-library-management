@@ -1,0 +1,32 @@
+
+[
+  {
+    "memberId": "M001",
+    "name": "Kavi",
+    "email": "kavi@example.com",
+    "phone": "9876543210",
+    "membershipType": "Student"
+  },
+  {
+    "memberId": "M002",
+    "name": "Arun",
+    "email": "arun@example.com",
+    "phone": "9876543211",
+    "membershipType": "Regular"
+  },
+  {
+    "memberId": "M003",
+    "name": "Priya",
+    "email": "priya@example.com",
+    "phone": "9876543212",
+    "membershipType": "Premium"
+  },
+  {
+    "memberId": "M004",
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "phone": "9876543213",
+    "membershipType": "Student"
+  }
+]
+
